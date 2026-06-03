@@ -1,0 +1,44 @@
+[
+  {
+    "course_name": "이산수학",
+    "year": "2022",
+    "semester": "2",
+    "grade": "B0"
+  },
+  {
+    "course_name": "객체지향 프로그래밍",
+    "year": "2023",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "AI수학",
+    "year": "2023",
+    "semester": "1",
+    "grade": "B0"
+  },
+  {
+    "course_name": "데이터베이스",
+    "year": "2025",
+    "semester": "2",
+    "grade": "B0"
+  },
+  {
+    "course_name": "자료구조",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "수치해석",
+    "year": "2025",
+    "semester": "2",
+    "grade": "C+"
+  },
+  {
+    "course_name": "오픈 소프트웨어",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  }
+]
