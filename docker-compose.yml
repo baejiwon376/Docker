@@ -1,0 +1,12 @@
+services:
+  fastapi:
+    build: .
+    container_name: fastapi_courses
+    ports:
+      - "80:8000"
+    restart: always
+    volumes:
+      - courses_data:/app/data
+
+volumes:
+  courses_data:
